@@ -1,0 +1,91 @@
+N
+Una columna de fuego
+4800
+2017
+HISTORICA
+Guerra de religiones en Europa en la segunda mitad del siglo XVI
+(5)
+
+C
+Casa Tomada
+20
+1951
+Bestiario
+(1)
+
+N
+Rayuela
+2900
+1963
+FICCION
+(1)
+
+N
+Misery
+2100
+1987
+TERROR
+(3)
+
+P
+El Poema del Mio Cid
+480
+1140
+3733
+ANONIMO
+
+P
+Voy a dormir
+1
+1938
+14
+(4)
+
+N
+Frankenstein
+1600
+1818
+TERROR
+(2)
+
+N
+Las bóvedas de acero
+40
+1954
+FICCION
+(9)
+
+P
+Naturaleza mía
+2
+1912 
+18
+(4)
+
+N
+Yo, Robot
+15
+1950
+FICCION
+(9)
+
+C
+Una flor amarilla
+10
+1956
+Final del juego
+(1)
+
+C
+Noviembre de 2005: Los Observadores
+20
+1950
+Crónicas marcianas
+(13)
+
+N
+Sentido y sensibilidad
+30
+1811
+ROMANTICA
+(14)
